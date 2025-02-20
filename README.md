@@ -7,15 +7,16 @@
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about **software development, system design, and problem-solving**
-- 🔭 Currently working on **my capstone project**
-- 📚 Constantly learning **new technologies and improving my skill set**
-- 📫 How to reach me: **gerbetsiii@gmail.com**
+## 🚀 About Me
+- 💻 Passionate about **software development, system design, and problem-solving**.
+- 🔭 Currently working on **my capstone project**.
+- 📚 Always learning **new technologies to expand my expertise**.
+- 🎯 Focused on **building scalable and efficient applications**.
+- 📫 How to reach me: **gerbetsiii@gmail.com**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript" />
@@ -32,17 +33,17 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerbets&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerbets&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerbets&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gerbets&theme=onedark" alt="GitHub Trophies" />
@@ -51,7 +52,7 @@
 
 ---
 
-### 📬 Contact Me
+## 📬 Contact Me
 <p align="center">
   <a href="mailto:gerbetsiii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
