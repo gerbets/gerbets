@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerbets&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerbets&theme=radical" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=gerbets&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerbets&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
