@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerbets&show_icons=true&theme=radical" alt="GitHub Stats" />
- <img src="https://streak-stats.demolab.com/?user=gerbets&theme=dark" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gerbets&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerbets&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
